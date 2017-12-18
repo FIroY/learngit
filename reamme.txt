@@ -3,3 +3,5 @@ git is a verson control system
 git is a distrubuted version control system
 
 git has a mutable index called stages.
+
+git tracks changes.
